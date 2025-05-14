@@ -1,5 +1,5 @@
 # Inventory Management System
-**Project Title:** Sales and Inventory Management Web Application to Enhance Retail in Mobile Phone Store
+**Project Title:** Scalable Web Application for Sales and Inventory Management Across Industries
 - Technologies: **C#, JavaScript, XML, SQL, HTML, CSS, ASP.NET, Datatable.net, Google Chart**
 - Tools: **Visual Studio 2015, Github**
 - Poster: [Poster.pdf](https://github.com/eryanyao/InventoryManagement_FYP/files/6643300/Poster.pdf)
@@ -11,8 +11,8 @@ Once you downloaded the file, you need to use the visual studio to open the file
 
 
 **will starting at login.aspx**
-- username: **admin**
-- password: **admin**
+- username: **ayush**
+- password: **prince**
 
 
 **Recomend using Visual Studio 2015 to launch**
@@ -20,9 +20,10 @@ Once you downloaded the file, you need to use the visual studio to open the file
 <br><br>
 
 ## Preview
-- Login Page (username: admin && password: admin)
+- Login Page 
 
-![Screenshot (45)](https://user-images.githubusercontent.com/74011230/121796303-80792000-cc4a-11eb-8f82-55be97d8d9a1.png)
+![image](https://github.com/user-attachments/assets/c29e6cc2-f5dc-4e5e-b90e-d85d2037b52c)
+
 <br><br>
 - Navigation Bar & Dashboard
 
